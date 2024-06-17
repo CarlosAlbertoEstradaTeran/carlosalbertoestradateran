@@ -1,4 +1,4 @@
-### Hola mi nombre es Carlos Estrada👋. Trabajo en desarrllo de aplicacion web en .net y NetCore. Me gusta el desarrollo móvil y otros lenguajes como python o go. 
+### Hola mi nombre es Carlos Estrada👋. Trabajo en desarrollo de aplicacion web en .net y NetCore. Me gusta el desarrollo móvil y otros lenguajes como python o go. 
 
 <!--
 **carloszcrs/carloszcrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
